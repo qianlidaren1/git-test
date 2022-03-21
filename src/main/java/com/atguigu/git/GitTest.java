@@ -8,10 +8,11 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("master test");
         System.out.println("hot-fix test");
-	    System.out.println("push test");
-	    System.out.println("ssh test");
-	    System.out.println("辟邪剑谱");
+	System.out.println("push test");
+	System.out.println("ssh test");
+	System.out.println("辟邪剑谱");
         System.out.println("another test");
+	System.out.println("pull test");
 
     }
 }
